@@ -1,5 +1,4 @@
 # Mastering-Git-Linux-Commands
-# Git & GitHub Learning Repository
 
 ## Overview
 This repository documents my journey of learning **Git** and **GitHub**. It highlights the workflows, concepts, and practical examples I explored to understand version control, repository management, and collaboration.  
@@ -24,8 +23,3 @@ By working on this repository, I have:
 - Learned to structure repositories for collaboration and long-term maintenance.
 - Developed an understanding of version control best practices and workflows.
 - Built a solid foundation for applying Git in professional and academic projects.
-
-## Contact
-**Veerabhadra Kudum**  
-GitHub:  
-Email: [your-email@example.com](mailto:your-email@example.com)
